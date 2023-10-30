@@ -5,9 +5,7 @@ This is a _basic_ example of the `terraform-aws-regional-cidrs` module.
 <!-- BEGIN_TF_DOCS -->
 ### Inputs
 
-| Name | Description | Type | Required |
-|------|-------------|------|:--------:|
-| aws_region | AWS Region. | `string` | no |
+No inputs.
 
 ### Outputs
 

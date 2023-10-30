@@ -1,0 +1,5 @@
+examples/**/.envrc
+examples/**/terraform.tfvars
+examples/**/terraform.tfstate*
+examples/**/.terraform.tfstate.lock.info
+.terraform/

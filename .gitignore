@@ -1,5 +1,7 @@
-examples/**/.envrc
-examples/**/terraform.tfvars
-examples/**/terraform.tfstate*
-examples/**/.terraform.tfstate.lock.info
-.terraform/
+# This is a Terraform-managed file; manual changes will be overwritten.
+# see https://github.com/workloads/github-organization/blob/main/templates/gitignores/terraform.gitignore
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+terraform.tfvars
